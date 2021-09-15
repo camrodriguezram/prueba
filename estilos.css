@@ -1,0 +1,35 @@
+p{
+    line-height: 50px;
+    color: black;
+    background-color: inherit;
+    margin-top: 40xp;
+    margin-right: 100px;
+    margin-left: 150px;
+    padding: 10px;
+    text-align: justify;
+  }
+
+  h1{
+    background-color: white;
+  }
+
+  #mitad{
+    background-color: white;
+  }
+
+  .parrafo{
+    color: brown;
+  }
+
+  a{
+    color: black;
+    text-decoration: none;
+  }
+
+  #contenedor a{
+    front-size:  40px;
+  }
+
+  body{
+    background-image: url("html5.png");
+  }
